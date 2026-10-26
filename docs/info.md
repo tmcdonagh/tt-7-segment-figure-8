@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Used 3 flip flops to count from 0 to 7 in binary and loop around. I then used the Q and not Q outputs
+to set the conditions for each segment. The result is each step moving the segment in a figure 8
+animation.
 
 ## How to test
 
-Explain how to use your project
+Run at low clock speed (10hz used in Wokwi) to see 7 segment display animation.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-Segment Display
